@@ -23,21 +23,22 @@
 
 ## 🧠 About Me
 
-I'm a **Data Scientist** at the intersection of **machine learning**, **clinical operations**, and **public health equity** — currently building AI-driven systems for **LA County Department of Health Services**, one of the largest public health systems in the United States.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-I don't just build models — I build **intelligent agents and forecasting tools** that help allocate hospital beds, predict patient surges, and eliminate operational blind spots for care teams serving hundreds of thousands of patients.
+I'm a **Data Scientist & AI Agent Builder** working at the intersection of **machine learning**, **clinical operations**, and **public health equity**.
 
-```python
-vishnu_sai = {
-    "role":       "Data Scientist → AI Agent Builder",
-    "domain":     ["Public Health", "Hospital Ops", "Radiology Analytics", "ICU Planning"],
-    "currently":  "Building agentic AI workflows for healthcare operations @ LA DHS",
-    "building":   ["LLM Agents", "RAG Pipelines", "Forecasting Systems"],
-    "stack":      ["Python", "SQL (Vertica)", "LangChain", "scikit-learn", "Tableau"],
-    "direction":  "Applying agentic AI to save lives at scale",
-    "location":   "Los Angeles, CA 📍",
-}
-```
+Currently building AI-driven forecasting systems and autonomous agents for **LA County Department of Health Services** — one of the largest public health systems in the United States.
+
+I don't just build models — I build **intelligent agents** that help allocate hospital beds, predict patient surges, and eliminate operational blind spots for care teams serving hundreds of thousands of patients.
+
+<br/>
+
+🏥 &nbsp;**Domain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Health · Hospital Ops · ICU Capacity Planning
+🤖 &nbsp;**Currently** &nbsp;&nbsp; Building agentic AI workflows for healthcare @ LA DHS
+🔨 &nbsp;**Building** &nbsp;&nbsp;&nbsp;&nbsp; LLM Agents · RAG Pipelines · Forecasting Systems
+🛠️ &nbsp;**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python · LangChain · scikit-learn · Tableau · SQL
+🎯 &nbsp;**Mission** &nbsp;&nbsp;&nbsp;&nbsp; Applying agentic AI to save lives at scale
+📍 &nbsp;**Location** &nbsp;&nbsp;&nbsp; Los Angeles, CA
 
 ---
 
