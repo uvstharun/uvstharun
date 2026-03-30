@@ -94,64 +94,66 @@ vishnu_sai = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects — AI Agents
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏥 ICU Bed Utilization Forecasting
-**LA General Hospital · LA DHS**
+### 🏥 Readmission Prevention Signal Agent
+**Healthcare · Multi-Agent Orchestration**
 
-> SARIMAX · Python · Healthcare Ops
+> Claude AI · SHAP · Clinical ML · Python
 
-Multi-phase autonomous forecasting system for ICU capacity. Uses patient demographics and CCSR clinical codes as exogenous variables. Automated AIC/BIC/RMSE grid search with residual diagnostics. Currently in **Phase 3: model governance & production monitoring**.
+Autonomous multi-agent system that monitors newly discharged patients, scores **30-day readmission risk** using a trained ML model, generates LLM-powered clinical narratives via Claude, and triggers evidence-based care transition workflows — with a full audit trail and SHAP explainability layer.
 
-`Python` `SARIMAX` `statsmodels` `SQL/Vertica` `Tableau`
+`Python` `Claude API` `Multi-Agent` `SHAP` `Healthcare ML`
+
+[→ View Repo](https://github.com/uvstharun/Readmission-Prevention-Signal-Agent)
 
 </td>
 <td width="50%">
 
-### 🧠 Brain Tumor Detection via CNN
-**Medical Imaging · Deep Learning**
+### 🔗 LinkedIn Outreach Agent
+**Chrome Extension · Personalized Outreach**
 
-> TensorFlow · Keras · MRI Classification
+> Claude Sonnet 4 · Manifest V3 · DOM Extraction
 
-CNN trained on MRI scans to classify brain tumors with **>90% accuracy**. Full preprocessing pipeline (normalization, 80/20 split), Conv → Pooling → Dense → Softmax architecture, evaluated via confusion matrix, precision, recall, F1.
+Production-ready Chrome Extension that reads any LinkedIn profile and uses Claude to generate **3 hyper-personalized connection requests + follow-up messages** in seconds. Tracks outreach history so you never double-message someone.
 
-`TensorFlow` `Keras` `CNN` `Medical Imaging`
+`Claude Sonnet 4` `Chrome Extension` `Anthropic API` `JavaScript`
 
-[→ View Repo](https://github.com/uvstharun/Brain_Tumor_Detection_CNN)
+[→ View Repo](https://github.com/uvstharun/LinkedIn-Outreach-Agent)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ✈️ Airline Review Sentiment Analysis
-**NLP · 200K+ Reviews**
+### ✍️ Medium Blog Agent
+**Autonomous Publishing · Agentic Workflow**
 
-> VADER · TextBlob · Tableau
+> Playwright · APScheduler · Claude/OpenAI · SQLite
 
-End-to-end NLP pipeline analyzing 200,000+ airline reviews. Surfaced service-level drivers of passenger dissatisfaction. Identified COVID-period sentiment shifts and visualized trends in Tableau.
+Fully autonomous agent that generates and publishes AI, Data Science & Healthcare blog posts to Medium on a **recurring schedule** — no Medium API needed. Uses browser automation (Playwright) with a saved session, LLM-powered content generation, and SQLite-backed post history to avoid duplicates.
 
-`Python` `NLTK` `VADER` `TextBlob` `Tableau`
+`Python` `Playwright` `Claude API` `APScheduler` `SQLite`
 
-[→ View Repo](https://github.com/uvstharun/Airline_Review_Sentiment_Analysis)
+[→ View Repo](https://github.com/uvstharun/medium-blog-agent)
 
 </td>
 <td width="50%">
 
-### 💳 Credit Card Default Prediction
-**Risk Modeling · Classification**
+### 🏥 MediChat AI
+**Healthcare Conversational AI**
 
-> R · Logistic Regression · ROC Analysis
+> LLM · RAG · Clinical NLP · Python
 
-Statistical modeling project predicting credit card default risk. Covers EDA, feature selection, and model evaluation with accuracy and ROC metrics.
+Conversational AI assistant built for healthcare queries — combining retrieval-augmented generation with clinical knowledge to answer medical questions accurately and safely.
 
-`R` `Logistic Regression` `Classification` `Risk Modeling`
+`Python` `LLM` `RAG` `Clinical NLP` `Healthcare AI`
 
-[→ View Repo](https://github.com/uvstharun/Credit_Card_Default)
+[→ View Repo](https://github.com/uvstharun/MediChat-AI)
 
 </td>
 </tr>
