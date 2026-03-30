@@ -27,7 +27,7 @@
 
 I'm a **Data Scientist & AI Agent Builder** working at the intersection of **machine learning**, **clinical operations**, and **public health equity**.
 
-Currently building AI-driven forecasting systems and autonomous agents for **LA County Department of Health Services** — one of the largest public health systems in the United States.
+
 
 I don't just build models — I build **intelligent agents** that help allocate hospital beds, predict patient surges, and eliminate operational blind spots for care teams serving hundreds of thousands of patients.
 
