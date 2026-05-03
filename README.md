@@ -173,10 +173,6 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 <img src="https://github-readme-stats.vercel.app/api?username=uvstharun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvstharun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uvstharun&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="60%"/>
-
 </div>
 
 ---
