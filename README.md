@@ -228,4 +228,20 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 
 ---
 
+
+---
+
+<!-- GIT-PULSE:START -->
+### 🔥 What I'm Building Right Now
+
+| Project | Status | Last Push |
+|---------|--------|-----------|
+| Readmission Prevention Signal Agent | 🟢 Active | 2026-06-10 |
+| ICU Bed Utilization Forecasting | 🟢 Active | 2026-06-10 |
+| SDOH Extractor | 🟡 In Progress | 2026-06-10 |
+| KPI Radiology Dashboard | 🟡 In Progress | 2026-06-10 |
+
+> 🤖 *Auto-updated daily by Git-Pulse · Last sync: 2026-06-10 07:33 PT*
+<!-- GIT-PULSE:END -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
