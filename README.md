@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vishnu%20Sai&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20·%20Healthcare%20AI%20·%20Agent%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+AI+Agents+for+Healthcare;📊+SARIMAX+%7C+ICU+Capacity+Forecasting;🧠+LLMs+%7C+RAG+%7C+LangChain+%7C+Agentic+AI;🏥+Turning+Data+into+Life-Saving+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+AI+Agents+for+Healthcare;🧬+Readmission+Risk+%7C+SDOH+Extraction;🧠+LLMs+%7C+RAG+%7C+LangChain+%7C+Agentic+AI;🏥+Turning+Data+into+Life-Saving+Decisions)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnusai29/">
@@ -33,7 +33,7 @@ I don't just build models — I build **intelligent agents** that help allocate 
 
 <br/>
 
-🏥 &nbsp;**Domain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Health · Hospital Ops · ICU Capacity Planning
+🏥 &nbsp;**Domain** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Health · Hospital Ops · Readmission Prevention
 🤖 &nbsp;**Currently** &nbsp;&nbsp; Building agentic AI workflows for healthcare @ LA DHS
 🔨 &nbsp;**Building** &nbsp;&nbsp;&nbsp;&nbsp; LLM Agents · RAG Pipelines · Forecasting Systems
 🛠️ &nbsp;**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python · LangChain · scikit-learn · Tableau · SQL
@@ -48,9 +48,9 @@ I don't just build models — I build **intelligent agents** that help allocate 
 
 | Project | Description | Status |
 |---|---|---|
-| 🏥 **ICU Forecasting Agent** | Autonomous SARIMAX-based agent that monitors ICU capacity, triggers alerts, and recommends staffing actions | 🔄 Phase 3 |
-| 🧬 **Clinical RAG Pipeline** | Retrieval-Augmented Generation system over clinical notes and operational SOPs | 🔨 In Dev |
-| 📡 **Health Ops LLM Agent** | LangChain agent that answers natural language queries over hospital operational data | 🔨 In Dev |
+| 🏥 **Readmission Prevention Agent** | Multi-agent XGBoost + LLM system scoring 30-day readmission risk with SHAP explainability and Claude-generated narratives | 🔄 Active |
+| 🧬 **SDOH Extractor** | Clinical NLP agent extracting social determinants of health from EHR notes using LLMs | 🔨 In Dev |
+| 📡 **Clinical RAG Pipeline** | Retrieval-Augmented Generation system over clinical notes and operational SOPs | 🔨 In Dev |
 
 ---
 
@@ -198,9 +198,9 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 ## 🎯 What I'm Working On
 
 ```
-📡  Phase 3 Forecasting Pipeline  →  Production monitoring & model governance for ICU capacity @ LA DHS
+🏥  Readmission Prevention Agent  →  Multi-agent XGBoost + LLM for 30-day readmission risk
+🧬  SDOH Extractor                →  Clinical NLP agent extracting social determinants from EHR notes
 🤖  Agentic AI for Healthcare     →  LangChain agents + RAG pipelines over clinical & operational data
-🧬  Clinical NLP                  →  LLM-powered tools for summarizing patient records & operational SOPs
 📚  Graduate Research             →  Exploring PhD pathways in AI/ML with a healthcare focus
 ```
 
@@ -237,11 +237,11 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 | Project | Status | Last Push |
 |---------|--------|-----------|
 | Readmission Prevention Signal Agent | 🟢 Active | 2026-06-10 |
-| ICU Bed Utilization Forecasting | 🟢 Active | 2026-06-10 |
 | SDOH Extractor | 🟡 In Progress | 2026-06-10 |
-| KPI Radiology Dashboard | 🟡 In Progress | 2026-06-10 |
+| Substack Content Agent | 🟡 In Progress | 2026-06-10 |
+| LinkedIn Outreach Agent | 🟡 In Progress | 2026-06-10 |
 
-> 🤖 *Auto-updated daily by Git-Pulse · Last sync: 2026-06-10 07:33 PT*
+> 🤖 *Auto-updated daily by Git-Pulse · Last sync: 2026-06-10 07:52 PT*
 <!-- GIT-PULSE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
