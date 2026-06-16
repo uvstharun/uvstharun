@@ -236,12 +236,12 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 
 | Project | Status | Last Push |
 |---------|--------|-----------|
-| agent-workspace | 🟢 Active | 2026-06-16 08:00 PT |
-| medium-blog-agent | 🟡 In Progress | 2026-06-12 16:36 PT |
-| substack-agent | 🟡 In Progress | 2026-06-13 12:00 PT |
-| Job-Hound | 🔴 Pending Push | 2026-06-13 15:11 PT (3 commits waiting) |
+| Readmission Prevention Signal Agent | 🟢 Active | 2026-06-15 16:00 PT |
+| SDOH Extractor | 🟢 Active | 2026-06-15 16:00 PT |
+| Substack Content Agent | 🟡 In Progress | 2026-06-13 12:00 PT |
+| LinkedIn Outreach Agent | 🟡 In Progress | 2026-06-13 12:00 PT |
 
-> 🤖 *Auto-updated by GitHub-Manager · Last sync: 2026-06-16 08:00 PT*
+> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-06-16 09:00 PT*
 <!-- GIT-PULSE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
