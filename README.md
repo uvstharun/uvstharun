@@ -243,7 +243,7 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 | LinkedIn Outreach Agent | 🟡 Maintenance | 2026-06-13 PT |
 | Substack Content Agent | 🟡 Maintenance | 2026-06-13 12:00 PT |
 
-> 🤖 *Auto-updated by Git-Pulse agent · Last sync: 2026-06-18 09:00 PT*
+> 🤖 *Auto-updated by GitHub-Manager · Last sync: 2026-06-18 12:00 PT*
 <!-- GIT-PULSE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
