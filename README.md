@@ -236,12 +236,12 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 
 | Project | Status | Last Push |
 |---------|--------|-----------|
-| Agent Workspace (Zoro AI Agent) | 🟢 Active | 2026-06-24 04:00 |
-| Medium Blog Agent | 🟡 Stale | 2026-06-12 |
-| Substack Content Agent | 🟡 Stale | 2026-06-13 |
-| Job Hound (Healthcare Data Science) | 🟡 Stale | 2026-06-13 |
+| Readmission Prevention Signal Agent | 🟢 Active | 2026-06-24 |
+| SDOH Extractor | 🟢 Active | 2026-06-24 |
+| Substack Content Agent | 🟡 In Progress | 2026-06-13 |
+| LinkedIn Outreach Agent | 🟡 In Progress | (pending) |
 
-> 🤖 *Auto-updated by GitHub-Manager · Last sync: 2026-06-24 04:00 PT*
+> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-06-24 9:00 PT*
 <!-- GIT-PULSE:END -->
 
 
