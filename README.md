@@ -237,12 +237,11 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 | Project | Status | Last Push |
 |---------|--------|-----------|
 | Agent Workspace | 🟢 Active | 2026-06-26 |
-| Medium Blog Agent | 🟡 Maintained | 2026-06-12 |
-| Substack Content Agent | 🟡 Maintained | 2026-06-13 |
-| Job Hound (Healthcare Jobs Scraper) | 🟢 Active | 2026-06-26 |
-| LinkedIn Outreach Agent | 🟡 Maintained | 2026-06-13 |
+| Job Hound (Healthcare Jobs Scraper) | 🟡 Recent | 2026-06-18 |
+| Medium Blog Agent | 🔴 Stale | 2026-06-12 |
+| Substack Content Agent | 🔴 Stale | 2026-06-13 |
 
-> 🤖 *Auto-updated by GitHub-Manager · Last sync: 2026-06-26 08:01 PT*
+> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-06-26 09:00 PT*
 <!-- GIT-PULSE:END -->
 
 
