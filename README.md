@@ -235,14 +235,14 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 
 | Project | Status | Last Push |
 |---------|--------|-----------|
-| agent-workspace | 🟢 Active | 2026-06-30 08:00 |
+| agent-workspace | 🟢 Active | 2026-06-30 07:00 |
 | Readmission Prevention Signal Agent | 🟢 Active | 2026-06-30 |
 | SDOH Extractor | 🟢 Active | 2026-06-30 |
-| Substack Content Agent | 🟢 Active | 2026-06-13 |
-| Medium Blog Agent | 🟢 Active | 2026-06-12 |
-| Job-Hound Healthcare AI Scraper | 🟢 Active | 2026-06-13 |
+| Substack Content Agent | 🟡 In Progress | 2026-06-13 |
+| Medium Blog Agent | 🟡 In Progress | 2026-06-12 |
+| Job-Hound Healthcare AI Scraper | 🟡 In Progress | 2026-06-18 |
 
-> 🤖 *Auto-updated by GitHub-Manager · Last sync: 2026-06-30 08:00 PT*
+> 🤖 *Auto-updated daily by Git-Pulse · Last sync: 2026-06-30 09:00 PT*
 <!-- GIT-PULSE:END -->
 
 
