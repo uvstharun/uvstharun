@@ -235,12 +235,12 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 
 | Project | Status | Last Push |
 |---------|--------|-----------|
-| Readmission Prevention Signal Agent | 🟢 Active | 2026-09-07 |
-| SDOH Extractor | 🟢 Active | 2026-09-07 |
-| Substack Content Agent | 🟡 In Progress | 2026-06-13 |
-| LinkedIn Outreach Agent | 🟡 In Progress | 2026-06-18 |
+| Readmission Prevention Signal Agent | 🟢 Active | 2026-09-08 |
+| SDOH Extractor | 🟢 Active | 2026-09-08 |
+| Substack Content Agent | 🟡 Paused | 2026-06-13 |
+| Job Hound Scraper | 🟡 Paused | 2026-06-13 |
 
-> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-09-07 09:00 PT*
+> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-09-08 09:00 PT*
 <!-- GIT-PULSE:END -->
 
 
