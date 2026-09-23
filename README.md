@@ -236,12 +236,11 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 | Project | Status | Last Push |
 |---------|--------|-----------|
 | Readmission Prevention Signal Agent | 🟢 Active | 2026-09-13 |
-| Clinical Triage Agent | 🟢 Active | 2026-09-13 |
-| Healthcare NL→SQL Agent | 🟢 Active | 2026-09-13 |
-| Agent Workspace (Core) | 🟢 Active | 2026-09-20 |
+| SDOH Extractor | 🟢 Active | 2026-09-13 |
 | Substack Content Agent | 🟡 In Progress | 2026-06-13 |
+| LinkedIn Outreach Agent | 🟡 In Progress | 2026-09-23 |
 
-> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-09-20 09:00 PT*
+> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-09-23 09:00 PT*
 <!-- GIT-PULSE:END -->
 
 
