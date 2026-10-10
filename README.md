@@ -231,17 +231,17 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 
 ---
 <!-- GIT-PULSE:START -->
-### 🔥 What I am Building Right Now
+### 🔥 What I'm Building Right Now
 
 | Project | Status | Last Push |
-|---------|--------|----------|
+|---------|--------|-----------|
 | Readmission Prevention Signal Agent | 🟢 Active | 2026-09-13 |
 | SDOH Extractor | 🟢 Active | 2026-09-13 |
-| agent-workspace | 🟢 Active | 2026-10-06 |
+| agent-workspace | 🟢 Active | 2026-10-10 |
+| LinkedIn Outreach Agent | 🟡 In Progress | — |
 | Substack Content Agent | 🔴 Stale | 2026-06-13 |
-| Job Scraper Agent | 🔴 Stale | 2026-06-13 |
 
-> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-10-06 09:00 PT*
+> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-10-10 09:00 PT*
 <!-- GIT-PULSE:END -->
 
 
