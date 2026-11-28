@@ -235,12 +235,16 @@ Conversational AI assistant built for healthcare queries — combining retrieval
 
 | Project | Status | Last Push |
 |---------|--------|-----------|
-| Readmission Prevention Signal Agent | 🟢 Active | 2026-11-27 |
-| SDOH Extractor | 🟢 Active | 2026-11-27 |
-| Substack Content Agent | 🟡 In Progress | 2026-06-13 |
-| LinkedIn Outreach Agent | 🟡 In Progress | 2026-11-27 |
+| Readmission Prevention Signal Agent | 🟢 Active | 2026-09-13 |
+| SDOH Extractor | 🟢 Active | 2026-09-13 |
+| Job Scraper | 🟢 Active | 2026-10-30 |
+| Substack Content Agent | 🟢 Active | 2026-06-13 |
+| LinkedIn Outreach Agent | 🟢 Active | 2026-11-27 |
+| Medium Blog Agent | 🟡 In Progress | 2026-06-12 |
 
-> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-11-27 17:00 PT*
+**Current Streak:** 1 day 🟡 **CHECK IN** | **Last Push:** 2026-11-27 04:03 PT | **1 event today** | **0 open PRs**
+
+> 🤖 *Auto-updated daily by Git-Pulse agent · Last sync: 2026-11-28 09:00 PT*
 <!-- GIT-PULSE:END -->
 
 
